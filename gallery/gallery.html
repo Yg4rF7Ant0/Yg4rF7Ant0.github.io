@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Certificate Gallery</title>
+  <link rel="stylesheet" href="gallery.css" />
+</head>
+<body>
+
+  <!-- BACK BUTTON -->
+  <div class="back-btn-container">
+    <button id="backBtn">← Kembali</button>
+  </div>
+
+  <!-- HEADER -->
+  <header class="page-header">
+    <h1>My Certificates</h1>
+    <p>Koleksi kursus, workshop, dan sertifikasi profesional</p>
+  </header>
+
+  <!-- SEARCH -->
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="Cari sertifikat..." />
+  </div>
+
+  <!-- FILTER -->
+  <div class="filter-buttons">
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="Course">Course</button>
+    <button class="filter-btn" data-filter="Workshop">Workshop</button>
+    <button class="filter-btn" data-filter="Official">Official</button>
+  </div>
+
+  <!-- GRID -->
+  <section class="gallery">
+    <div id="galleryGrid"></div>
+  </section>
+
+  <!-- MODAL -->
+  <div class="modal" id="pdfModal">
+
+    <!-- CLOSE -->
+    <span class="close" id="closeModal">&times;</span>
+
+    <!-- PREVIEW FILE -->
+    <iframe class="modal-pdf" id="modalPdf"></iframe>
+    <!-- IMG otomatis ditambahkan oleh JS -->
+
+    <!-- CAPTION + BUTTON -->
+    <div class="modal-caption" id="modalCaption"></div>
+
+    <!-- NAVIGATION (HARUS DI DALAM MODAL) -->
+    <div class="modal-nav">
+      <button id="prevBtn">&#10094;</button>
+      <button id="nextBtn">&#10095;</button>
+    </div>
+
+  </div>
+
+  <script src="gallery.js"></script>
+</body>
+</html>
