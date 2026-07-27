@@ -1,0 +1,88 @@
+{
+  "educations": [
+    {
+      "title": "S1 Teknik Informatika",
+      "organization": "Universitas BSI – Fatmawati, Jakarta Selatan",
+      "organizationUrl": "https://bsi.ac.id/",
+      "date": "September 2023 – September 2027",
+      "description": "Saat ini menempuh pendidikan hingga semester 6 secara daring dengan fokus pada pengembangan keterampilan pemrograman dan keamanan siber melalui pelatihan serta pengalaman kerja lapangan."
+    },
+    {
+      "title": "Teknik Otomotif",
+      "organization": "SMK AT-THO'AT Toroh – Grobogan, Jawa Tengah",
+      "organizationUrl": "",
+      "date": "2019 – 2022",
+      "description": "Berfokus pada pengembangan keterampilan teknisi dan kewirausahaan melalui praktik pelatihan serta pengalaman kerja lapangan."
+    }
+  ],
+
+  "certificat": [
+    {
+      "title": "Sertifikat Cisco Networking",
+      "organization": "Cisco Networking Academy",
+      "organizationUrl": "https://www.cisco.com/",
+      "date": "November 2025",
+      "credentialUrl": "gallery/gallery.html",
+      "description": "Kompetensi lanjutan di bidang jaringan komputer (Advanced Networking)."
+    },
+    {
+      "title": "Sertifikat Red Team Training",
+      "organization": "Red Team Leader",
+      "organizationUrl": "https://courses.redteamleaders.com/",
+      "date": "Juli 2025",
+      "credentialUrl": "gallery/gallery.html",
+      "description": "Pelatihan praktik keamanan ofensif dan teknik Red Team."
+    },
+    {
+      "title": "Sertifikat Cybersecurity Intermediate",
+      "organization": "Udemy",
+      "organizationUrl": "https://www.udemy.com/",
+      "date": "November 2024",
+      "credentialUrl": "gallery/gallery.html",
+      "description": "Penguasaan Linux command line, ethical hacking, bug bounty, jaringan komputer, dan dasar Red Teaming."
+    },
+    {
+      "title": "Sertifikat Fundamental Cybersecurity",
+      "organization": "Coding Studio",
+      "organizationUrl": "https://codingstudio.id/",
+      "date": "Juni 2016",
+      "credentialUrl": "gallery/gallery.html",
+      "description": "Fundamental algoritma, Linux, jaringan, serta dasar keamanan siber dan pentesting."
+    },
+    {
+      "title": "Sertifikat Pelatihan Digital & Office",
+      "organization": "Belajar-Skill.id",
+      "organizationUrl": "https://belajar-skill.id/",
+      "date": "Juni 2016",
+      "credentialUrl": "https://drive.google.com/drive/folders/1Kao4Yd-HxGgOL9RBTJGCoePHwabf0Kuy?usp=drive_link",
+      "description": "WordPress, Microsoft Excel & Word, dasar data science, serta kemampuan bahasa Inggris (TOEFL)."
+    },
+    {
+      "title": "PCAP – Programming Essentials in Python",
+      "organization": "OpenEDG Python Institute & Cisco Networking Academy",
+      "organizationUrl": "https://www.pythoninstitute.org/",
+      "date": "19 Juli 2024",
+      "credentialUrl": "gallery/gallery.html",
+      "description": "Algoritma pemrograman, Python, serta dasar pengembangan machine learning dan deep learning."
+    }
+  ],
+
+  "workshops": [
+    {
+      "title": "Social Media Marketing 101",
+      "organization": "Mini Club Developer (MCD)",
+      "organizationUrl": "",
+      "date": "23 Desember 2023",
+      "credentialUrl": "gallery/gallery.html",
+      "description": "Pemanfaatan platform digital untuk strategi pemasaran yang efektif."
+    },
+    {
+      "title": "Seminar Wajib Entrepreneur",
+      "organization": "Universitas BSI – Aula UBSI Kramat 98",
+      "organizationUrl": "gallery/gallery.html",
+      "date": "28 Oktober 2023",
+      "credentialUrl": "./assets/pdf/workshop/1.pdf",
+      "description": "Penguatan mindset kewirausahaan untuk masa depan karier profesional."
+    }
+  ]
+}
