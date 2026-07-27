@@ -1,0 +1,274 @@
+[
+  {
+    "id": "1",
+    "categories": ["software", "tools"],
+    "image": "./assets/images/project/proxyminer.jpeg",
+    "title": "ProxyMiner: Pengumpul Proxy Multi-Sumber dengan Performa Multithread",
+    "tags": ["Python", "Networking", "Proxy Scraping", "Multithreading", "Security Research"],
+    "objective": "Mengembangkan alat pengumpulan proxy yang efisien untuk mengambil, memvalidasi, dan merangkum proxy dari berbagai sumber daring.",
+    "responsibility": "Merancang engine scraping multithread, mengimplementasikan validasi dan pelaporan, memastikan kompatibilitas lintas platform, serta mengoptimalkan performa untuk skala besar.",
+    "technology": "Python, Multithreading, Networking Libraries, CLI",
+    "outcome": "Menghasilkan utilitas pengumpulan proxy yang cepat dan fleksibel untuk riset, pengujian, dan validasi konfigurasi jaringan.",
+    "features": [
+      "Scraping proxy berkecepatan tinggi dengan multithread.",
+      "Validasi dan ringkasan status proxy.",
+      "Penggunaan berbasis command-line lintas platform."
+    ],
+    "link": "https://github.com/Y0xDft07/ProxyMiner.git"
+  },
+  {
+    "id": "2",
+    "categories": ["software", "tools", "personal"],
+    "image": "./assets/images/project/shadowguard.png",
+    "title": "ShadowGuard: Toolkit Perlindungan Privasi dan Anti-Forensik",
+    "tags": ["Linux Security", "Tor", "VPN", "MAC Spoofing", "Anti-Forensics", "Privacy"],
+    "objective": "Membangun toolkit privasi komprehensif untuk menyamarkan identitas digital, melindungi lalu lintas jaringan, dan menghapus jejak forensik.",
+    "responsibility": "Mengembangkan skrip otomatisasi Linux untuk rotasi IP, routing Tor, spoofing MAC, perlindungan DNS, penghapusan metadata, dan penghapusan file aman dengan fitur kill-switch darurat.",
+    "technology": "Bash, Linux Networking, Tor, VPN Integration, System Utilities",
+    "outcome": "Menghasilkan toolkit pertahanan privasi tingkat lanjut yang menunjukkan pemahaman kuat terhadap anonimitas, OPSEC, dan teknik anti-forensik.",
+    "features": [
+      "Anonimisasi jaringan penuh menggunakan Tor dan VPN.",
+      "Randomisasi alamat MAC dan perlindungan DNS.",
+      "Penghapusan metadata dan file secara permanen.",
+      "Kill-switch darurat anti-forensik."
+    ],
+    "link": "https://github.com/Y0xDft07/ShadowGuard.git"
+  },
+  {
+    "id": "3",
+    "categories": ["tools"],
+    "image": "./assets/images/project/ddos.png",
+    "title": "Panel Simulasi DDoS Edukatif dengan Metode Multi-Layer",
+    "tags": ["Python", "Network Stress Testing", "Layer4", "Layer7", "Security Research"],
+    "objective": "Mempelajari teknik serangan DDoS dan mekanisme pertahanan melalui simulasi terkontrol.",
+    "responsibility": "Mengimplementasikan berbagai metode request Layer-4 dan Layer-7, antarmuka CLI dan panel, serta dokumentasi penggunaan etis untuk riset.",
+    "technology": "Python, Networking, HTTP/Socket Programming",
+    "outcome": "Menghasilkan toolkit simulasi berbasis riset untuk memahami perilaku dan mitigasi DDoS.",
+    "features": [
+      "Metode simulasi Layer-4 dan Layer-7.",
+      "Pengujian teknik proxy dan bypass.",
+      "Mode eksekusi command line dan panel."
+    ],
+    "link": "https://github.com/Y0xDft07/DDoS.git"
+  },
+  {
+    "id": "4",
+    "categories": ["tools"],
+    "image": "./assets/images/project/vps-audit.png",
+    "title": "Skrip Audit Keamanan & Performa VPS Linux",
+    "tags": ["Bash", "Linux Security", "Server Hardening", "Monitoring"],
+    "objective": "Mengotomatisasi audit keamanan dan pemantauan performa pada lingkungan VPS berbasis Linux.",
+    "responsibility": "Mengembangkan alat audit berbasis bash untuk memeriksa konfigurasi SSH, status firewall, fail2ban, port terbuka, file SUID, pembaruan sistem, serta penggunaan sumber daya.",
+    "technology": "Bash, Utilitas Linux, Tools Monitoring Sistem",
+    "outcome": "Menghasilkan skrip hardening dan diagnostik VPS ringan yang berguna bagi administrator dan praktisi keamanan.",
+    "features": [
+      "Pemeriksaan konfigurasi SSH dan firewall secara menyeluruh.",
+      "Deteksi port terbuka, login gagal, dan file SUID.",
+      "Monitoring penggunaan CPU, memori, disk, dan jaringan."
+    ],
+    "link": "https://github.com/Y0xDft07/SkripAuditKeamanaVPS.git"
+  },
+  {
+    "id": "5",
+    "categories": ["software"],
+    "image": "./assets/images/project/network-gui.png",
+    "title": "Network-Analys-GUI: Aplikasi Analisis Paket Jaringan Interaktif",
+    "tags": ["Python", "GUI", "Packet Analysis", "Matplotlib"],
+    "objective": "Menyediakan antarmuka grafis interaktif untuk menganalisis paket jaringan dan memvisualisasikan distribusi protokol.",
+    "responsibility": "Mengembangkan logika inspeksi paket, visualisasi protokol real-time, kontrol GUI, serta grafik statistik pie-chart.",
+    "technology": "Python, Tkinter, Matplotlib, Library Networking",
+    "outcome": "Menghasilkan alat analisis jaringan edukatif yang ramah pengguna untuk monitoring dan pembelajaran perilaku paket.",
+    "features": [
+      "Inspeksi protokol paket secara real-time.",
+      "GUI interaktif dengan kontrol mulai/berhenti.",
+      "Visualisasi distribusi protokol berbentuk pie chart."
+    ],
+    "link": "https://github.com/Y0xDft07/Network-Analys-Gui.git"
+  },
+  {
+    "id": "6",
+    "categories": ["software", "tools"],
+    "image": "./assets/images/project/guardosint.png",
+    "title": "GuardOsint: Toolkit Investigasi Open-Source Intelligence Multifungsi",
+    "tags": ["OSINT", "Investigasi Siber", "Python", "Analisis Jaringan", "Otomatisasi"],
+    "objective": "Mengembangkan toolkit OSINT terpadu yang mampu mengumpulkan, mengekstrak, dan menganalisis intelijen digital dari berbagai sumber data publik secara efisien.",
+    "responsibility": "Merancang dan mengimplementasikan lebih dari 30 modul investigasi termasuk enumerasi username, ekstraksi metadata, pemindaian port, pencarian dark web, serta deteksi kebocoran kredensial dengan penanganan dependensi otomatis.",
+    "technology": "Python, Web Scraping, Networking, EXIF Processing, Search Engine APIs, CLI Automation",
+    "outcome": "Menghasilkan kerangka kerja investigasi OSINT komprehensif yang mempercepat proses rekonesans digital, meningkatkan efisiensi pengumpulan intelijen, serta mendukung riset keamanan siber.",
+    "features": [
+      "Enumerasi username di puluhan platform media sosial.",
+      "Ekstraksi intelijen IP, domain, dan jaringan dengan pemindaian port.",
+      "Ekstraksi metadata gambar serta rekonesans berbasis email.",
+      "Penemuan intelijen dark web dan kebocoran data.",
+      "Pencatatan hasil otomatis dengan output siap analisis."
+    ],
+    "link": "https://github.com/Y0xDft07/GuardOsint.git"
+  },
+  {
+    "id": "7",
+    "categories": ["software", "tools"],
+    "image": "./assets/images/project/heartscan.png",
+    "title": "HeartScan Monitor: Alat Deteksi Kerentanan Heartbleed dan Analisis Kebocoran Memori",
+    "tags": ["Heartbleed", "CVE-2014-0160", "OpenSSL", "Riset Eksploit", "Keamanan Jaringan"],
+    "objective": "Membuat alat riset keamanan berbasis proof-of-concept untuk mendeteksi serta menganalisis sistem yang rentan terhadap kebocoran memori Heartbleed pada OpenSSL.",
+    "responsibility": "Mengimplementasikan logika pemindaian host, pemantauan eksploit heartbeat, penangkapan memori bocor, pemindaian multithread, serta penyimpanan hasil terstruktur untuk pengujian keamanan terkontrol.",
+    "technology": "Python, Socket Programming, OpenSSL Protocol Analysis, Multithreading, CLI Tools",
+    "outcome": "Menghasilkan utilitas edukatif analisis eksploit yang menunjukkan dampak nyata kerentanan serta mendukung pembelajaran penetration testing terkontrol.",
+    "features": [
+      "Pemindaian otomatis host terhadap kerentanan Heartbleed.",
+      "Pemantauan eksploit heartbeat berkelanjutan untuk analisis.",
+      "Parsing memori bocor menjadi data yang dapat dibaca.",
+      "Konfigurasi thread, jumlah host, dan parameter target."
+    ],
+    "link": "https://github.com/Y0xDft07/HeartScan_Monitor.git"
+  },
+  {
+    "id": "8",
+    "categories": ["software", "tools"],
+    "image": "./assets/images/project/autoscanbug.png",
+    "title": "AutoScanBug: Mesin Deteksi Kerentanan Web dan Rekomendasi Mitigasi Otomatis",
+    "tags": ["OWASP", "Vulnerability Scanner", "Web Security", "Python", "Security Automation"],
+    "objective": "Membangun mesin pemindaian otomatis yang mampu mendeteksi kerentanan keamanan web umum serta memberikan rekomendasi mitigasi yang dapat ditindaklanjuti.",
+    "responsibility": "Mengembangkan logika deteksi lebih dari 30 kelas kerentanan termasuk injeksi, kelemahan autentikasi, kesalahan konfigurasi server, dan eksploit sisi klien beserta rekomendasi perbaikannya.",
+    "technology": "Python, HTTP Analysis, Security Testing, Pattern Detection, Automation Scripts",
+    "outcome": "Menghasilkan pemindai keamanan ringan yang membantu developer dan pembelajar keamanan mengidentifikasi serta memperbaiki kerentanan kritis dengan cepat.",
+    "features": [
+      "Deteksi OWASP Top 10 dan kategori lanjutan.",
+      "Alur pemindaian otomatis dengan laporan jelas.",
+      "Rekomendasi mitigasi dan secure coding bawaan.",
+      "Cakupan risiko server, klien, autentikasi, dan konfigurasi."
+    ],
+    "link": "https://github.com/Y0xDft07/AutoScanbug.git"
+  },
+  {
+    "id": "9",
+    "categories": ["software"],
+    "image": "./assets/images/project/minidisk.png",
+    "title": "MINI-DISK: Sistem Cloud Storage dan Manajemen File Berbasis Web Ringan",
+    "tags": ["Flask", "Cloud Storage", "Web File Manager", "Code Editor", "SocketIO"],
+    "objective": "Membangun aplikasi cloud storage self-hosted ringan dengan kemampuan manajemen file, pratinjau media, dan pengeditan langsung di browser.",
+    "responsibility": "Mengembangkan backend pengelolaan file, komunikasi real-time, editor kode berbasis browser, konfigurasi penyimpanan fleksibel, serta dukungan pratinjau multi-format.",
+    "technology": "Python, Flask, SocketIO, CodeMirror, Pillow, Markdown, WebSockets",
+    "outcome": "Menghasilkan prototipe cloud storage privat yang memungkinkan operasi file aman, pratinjau media, serta pengeditan sumber langsung melalui web.",
+    "features": [
+      "Upload, unduh, pindah, dan hapus file via web.",
+      "Editor teks dan kode langsung di browser.",
+      "Pratinjau gambar, video, audio, PDF, dan arsip.",
+      "Lokasi penyimpanan fleksibel dan ekstensi terminal."
+    ],
+    "link": "https://github.com/Y0xDft07/MINI-DISK.git"
+  },
+  {
+    "id": "10",
+    "categories": ["ai-solutions", "software"],
+    "image": "./assets/images/project/hellowindows.png",
+    "title": "Hello-Windows: Agen Otomatisasi AI Tingkat GUI untuk Sistem Operasi Windows",
+    "tags": ["AI Agent", "LLM Automation", "Windows GUI", "LangChain", "Produktivitas"],
+    "objective": "Menciptakan agen otomatisasi berbasis AI yang mampu berinteraksi langsung dengan antarmuka grafis Windows melalui perintah bahasa alami.",
+    "responsibility": "Mengimplementasikan orkestrasi agen, integrasi LLM, abstraksi kontrol browser, serta pipeline eksekusi tugas tanpa ketergantungan visi komputer.",
+    "technology": "Python, LangChain, Google Generative AI, Windows Automation, CLI Integration",
+    "outcome": "Menghasilkan kerangka eksperimen otomatisasi desktop berbasis bahasa alami untuk skenario produktivitas dan riset.",
+    "features": [
+      "Eksekusi tugas desktop berbasis bahasa alami.",
+      "Interaksi GUI langsung tanpa model visi.",
+      "Otomatisasi browser dan perintah shell.",
+      "Desain aman untuk eksperimen sandbox."
+    ],
+    "link": "https://github.com/Y0xDft07/Hello-Windows.git"
+  },
+  {
+    "id": "11",
+    "categories": ["software", "tools"],
+    "image": "./assets/images/project/svd.png",
+    "title": "SVD: Sistem Deployment Virtual Disk Berbasis Docker dan Berbagi Jaringan Samba",
+    "tags": ["Docker", "Samba", "Virtual Disk", "DevOps", "Self-Hosted Storage"],
+    "objective": "Merancang solusi terkontainerisasi untuk deployment virtual disk dan berbagi aman melalui jaringan menggunakan Samba.",
+    "responsibility": "Mengonfigurasi perilaku container Docker, provisioning virtual disk, pengaturan protokol SMB, serta kontrol akses multi-pengguna berbasis YAML.",
+    "technology": "Docker, Docker Compose, Samba, YAML Configuration, Linux Networking",
+    "outcome": "Menghasilkan layanan storage portabel siap DevOps dengan deployment cepat, konfigurasi skalabel, dan manajemen akses terstruktur.",
+    "features": [
+      "Deployment network share satu perintah.",
+      "Dukungan protokol SMB2 dan SMB3.",
+      "Kontrol izin berbasis pengguna dan grup.",
+      "Resize disk otomatis dan konfigurasi persisten."
+    ],
+    "link": "https://github.com/Y0xDft07/svd.git"
+  },
+  {
+    "id": "12",
+    "categories": ["ai-solutions", "software", "official"],
+    "image": "./assets/images/project/csticket.png",
+    "title": "CsTicket: Sistem Otomatisasi Customer Support Berbasis AI dan Agen MCP",
+    "tags": ["AI Agents", "MCP", "Streamlit", "Customer Support Automation", "NLP"],
+    "objective": "Mengotomatisasi alur kerja dukungan pelanggan dengan agen AI untuk klasifikasi tiket, pembuatan respons cerdas, dan pengiriman email otomatis dengan pencatatan penuh.",
+    "responsibility": "Mengimplementasikan pipeline agen AI, klasifikasi tiket, pengiriman email otomatis, logging Google Sheets, dashboard Streamlit, serta integrasi MCP.",
+    "technology": "Python 3.13, Streamlit, MCP, Gmail SMTP, Google Sheets API, NLP Models",
+    "outcome": "Menghasilkan sistem dukungan pelanggan cerdas yang mengurangi waktu respons, meningkatkan konsistensi layanan, dan memungkinkan skalabilitas penanganan tiket.",
+    "features": [
+      "Klasifikasi tiket dan deteksi urgensi berbasis AI.",
+      "Pembuatan serta pengiriman email otomatis.",
+      "Integrasi Google Sheets untuk riwayat dan analitik.",
+      "Dashboard monitoring berbasis Streamlit.",
+      "Orkestrasi agen melalui MCP."
+    ],
+    "link": "https://github.com/Y0xDft07/CsTicket.git"
+  },
+  {
+    "id": "13",
+    "categories": ["software", "tools", "personal"],
+    "image": "./assets/images/project/hijack.png",
+    "title": "Hijack: Framework Red Team Modular untuk Simulasi Session Hijacking",
+    "tags": ["Red Team", "Session Hijacking", "Token Extraction", "Browser Security", "Security Research"],
+    "objective": "Merancang framework red team modular untuk mendemonstrasikan teknik session hijacking melalui ekstraksi cookie, replay token, dan pengambilalihan sesi terautentikasi untuk tujuan edukasi dan riset keamanan.",
+    "responsibility": "Mengimplementasikan pengambilan token, pemantauan clipboard, injeksi cookie browser, replay sesi berbasis API, serta pembuatan implant jarak jauh untuk simulasi red team terkendali.",
+    "technology": "Python, Selenium, Browser Cookie Extraction, Cryptography Libraries, CLI Security Tools",
+    "outcome": "Menghasilkan framework simulasi red team edukatif yang memperlihatkan risiko nyata kebocoran token autentikasi.",
+    "features": [
+      "Ekstraksi langsung cookie sesi dan token autentikasi browser.",
+      "Replay sesi berbasis API tanpa GUI.",
+      "Pemantauan clipboard untuk JWT dan token platform.",
+      "Generator implant otomatis untuk latihan red team.",
+      "Dukungan multi-platform berbasis token."
+    ],
+    "link": "https://github.com/Y0xDft07/hijack.git"
+  },
+  {
+    "id": "14",
+    "categories": ["software", "tools"],
+    "image": "./assets/images/project/scan-bypass.png",
+    "title": "Scan-Bypass: Pemindai Validasi Perilaku Port untuk Deteksi Port Palsu",
+    "tags": ["Port Scanning", "Network Defense", "Protocol Validation", "Asyncio", "Security Analysis"],
+    "objective": "Membangun pemindai jaringan berbasis perilaku yang mampu membedakan layanan nyata dan layanan umpan (decoy) dengan memvalidasi interaksi protokol secara penuh.",
+    "responsibility": "Mengembangkan probing berbasis protokol, engine scanning async, pola trafik stealth, serta analisis konsistensi untuk mengurangi false positive.",
+    "technology": "Python, Asyncio, Network Protocol Probing, Nmap Service Probes, TCP/UDP Scanning",
+    "outcome": "Menghasilkan alat pemindaian riset yang meningkatkan akurasi rekonsiliasi jaringan terhadap sistem pertahanan palsu.",
+    "features": [
+      "Validasi perilaku protokol HTTP, TLS, SSH, SMTP, FTP.",
+      "Deteksi banner palsu dan layanan umpan.",
+      "Pemindaian async non-blocking dengan kontrol stealth.",
+      "Dukungan TCP dan UDP skala luas.",
+      "Integrasi database probe Nmap asli."
+    ],
+    "link": "https://github.com/Y0xDft07/Scan-Bypass-all-Port-is-open.git"
+  },
+
+  {
+    "id": "15",
+    "categories": ["software", "tools"],
+    "image": "./assets/images/project/osi-surgery.png",
+    "title": "OSI Surgery: Framework Analisis dan Audit Keamanan Jaringan Berbasis OSI",
+    "tags": ["OSI Model", "Network Scanning", "Security Audit", "Reconnaissance", "Python"],
+    "objective": "Membangun framework rekonsiliasi dan audit keamanan berlapis yang menganalisis target dari Layer 1 hingga Layer 7 OSI.",
+    "responsibility": "Merancang arsitektur modular per layer OSI, menerapkan pemeriksaan protokol, analisis TLS, audit sesi, deteksi firewall, dan pelaporan otomatis.",
+    "technology": "Python, Network Scanning Tools, TLS Analysis, ARP Scanning, WHOIS, DNS",
+    "outcome": "Menghasilkan alat audit jaringan edukatif dengan laporan terstruktur dan timestamp otomatis.",
+    "features": [
+      "Rekonsiliasi berlapis dari fisik hingga aplikasi.",
+      "Deteksi kelemahan TLS dan validasi sertifikat.",
+      "Audit keamanan sesi dan cookie.",
+      "Deteksi perilaku firewall dan stealth scan.",
+      "Pelaporan otomatis bertimestamp."
+    ],
+    "link": "https://github.com/Y0xDft07/OSI_surgery.git"
+  }
+]

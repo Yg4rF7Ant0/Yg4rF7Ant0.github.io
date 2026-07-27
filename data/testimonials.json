@@ -1,0 +1,58 @@
+[
+  {
+    "id": "person1",
+    "name": "Steven Daley",
+    "fullName": "Steven Daley",
+    "avatar": "./assets/images/testimonial/Steven Daley.jpg",
+    "position": "Bespoke Applications and Games for Web and Mobile",
+    "text": "Freelancer yang sangat profesional dan kompeten. Melakukan security assessment pada aplikasi web kami secara menyeluruh dan memberikan laporan kerentanan yang jelas serta rekomendasi perbaikan yang mudah dipahami."
+  },
+  {
+    "id": "person2",
+    "name": "Md Monayem Hossain",
+    "fullName": "Md Monayem Hossain",
+    "avatar": "./assets/images/testimonial/Md Monayem Hossain.jpg",
+    "position": "Amazon Expert and Web Designer",
+    "text": "Pekerjaan diselesaikan sesuai target dan tepat waktu. Berhasil mengidentifikasi celah keamanan pada website kami serta membantu proses perbaikannya dengan detail dan sabar."
+  },
+  {
+    "id": "person3",
+    "name": "Morwenna H.",
+    "fullName": "Morwenna H.",
+    "avatar": "./assets/images/testimonial/Morwenna H.jpg",
+    "position": "CV Writer / Consultant",
+    "text": "Laporan penetration testing sangat terstruktur dan profesional. Penjelasan teknis disampaikan dengan bahasa yang mudah dipahami, bahkan untuk tim non-teknis."
+  },
+  {
+    "id": "person4",
+    "name": "Amran Reza Sagar",
+    "fullName": "Amran Reza Sagar",
+    "avatar": "./assets/images/testimonial/Amran Reza Sagar.jpg",
+    "position": "Data Entry & Virtual Assistant | Graphics Design | PHP & WordPress",
+    "text": "Kolaborasi berjalan sangat lancar. Membantu meningkatkan keamanan WordPress kami dan memberikan rekomendasi praktis untuk mencegah potensi serangan di masa depan."
+  },
+  {
+    "id": "person5",
+    "name": "Aysha S.",
+    "fullName": "Aysha S.",
+    "avatar": "./assets/images/testimonial/Aysha S.png",
+    "position": "Researcher | Business Plan | Data Scraping | Admin Support | Web Design",
+    "text": "Sangat teliti dan bertanggung jawab. Proses audit keamanan dilakukan secara sistematis dan hasilnya sangat membantu dalam meningkatkan keamanan sistem kami."
+  },
+  {
+    "id": "person6",
+    "name": "Dharma Raj Karki",
+    "fullName": "Dharma Raj Karki",
+    "avatar": "./assets/images/testimonial/Dharma Raj Karki.jpg",
+    "position": "Financial Analyst | Excel Expert | Taxation",
+    "text": "Pendekatan kerja sangat analitis dan terstruktur. Memberikan insight risiko keamanan yang sebelumnya tidak kami sadari serta solusi mitigasi yang jelas."
+  },
+  {
+    "id": "person7",
+    "name": "Rajesh Bathula",
+    "fullName": "Rajesh Bathula",
+    "avatar": "./assets/images/testimonial/Rajesh Bathula.jpg",
+    "position": "Sr Test Automation Specialist | CEH Certified | Full Stack QA Engineer | Penetration & Performance Tester",
+    "text": "Memiliki pemahaman yang kuat dalam penetration testing dan vulnerability assessment. Profesional, menjunjung tinggi etika, dan selalu memberikan hasil kerja yang berkualitas."
+  }
+]

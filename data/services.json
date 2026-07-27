@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cybersecurity-analyst",
+    "icon": "./assets/images/logo/icon-c.svg",
+    "title": "Cybersecurity Enthusiast | Bug Bounty Researcher",
+    "description": "Melakukan pemantauan, analisis, serta pengamanan sistem dan aplikasi untuk melindungi data serta infrastruktur teknologi dari ancaman, kerentanan, dan serangan siber."
+  },
+  {
+    "id": "web-developer",
+    "icon": "./assets/images/logo/icon-dev.svg",
+    "title": "Web Development",
+    "description": "Mengembangkan aplikasi web yang responsif, aman, dan skalabel dengan arsitektur terstruktur serta penerapan teknologi modern dan praktik keamanan terbaik."
+  },
+  {
+    "id": "data-analyst",
+    "icon": "./assets/images/logo/icon-a.svg",
+    "title": "Data Analyst",
+    "description": "Mengolah, menganalisis, dan memvisualisasikan data untuk menghasilkan insight yang akurat guna mendukung pengambilan keputusan bisnis secara efektif."
+  },
+  {
+    "id": "ai-solutions",
+    "icon": "./assets/images/logo/icon-ai.svg",
+    "title": "AI & Automation Solutions",
+    "description": "Merancang dan mengimplementasikan solusi kecerdasan buatan serta otomatisasi proses untuk meningkatkan efisiensi operasional dan pengambilan keputusan berbasis data."
+  },
+  {
+    "id": "remote-professional",
+    "icon": "./assets/images/logo/icon-r.svg",
+    "title": "Remote Professional",
+    "description": "Bekerja secara profesional dalam lingkungan kerja jarak jauh dengan kolaborasi digital yang efektif, manajemen waktu yang baik, serta orientasi kuat pada hasil dan target organisasi."
+  }
+]

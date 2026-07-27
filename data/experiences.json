@@ -1,0 +1,35 @@
+[
+  {
+    "designation": "Crew Store",
+    "organization": "PT Alfaria Trijaya Tbk",
+    "date": "Oktober 2025 — Januari 2025",
+    "jobs": [
+      "Menjalankan operasional toko harian meliputi pelayanan pelanggan, pengelolaan persediaan, dan penataan produk sesuai standar perusahaan.",
+      "Memastikan ketersediaan barang, kebersihan area kerja, serta kepatuhan terhadap prosedur operasional dan standar keamanan.",
+      "Berkolaborasi dengan tim untuk menjaga kualitas layanan, meningkatkan kepuasan pelanggan, dan mendukung efisiensi operasional toko."
+    ]
+  },
+  {
+    "designation": "Training Crew Store",
+    "organization": "PT Pesta Pora Abadi (Mie Gacoan)",
+    "date": "April 2025 — September 2025",
+    "jobs": [
+      "Mengikuti program pelatihan operasional restoran meliputi pelayanan pelanggan, kasir (POS), dan manajemen persediaan bahan baku.",
+      "Mempelajari dan menerapkan SOP perusahaan terkait standar pelayanan, keamanan pangan, serta kebersihan area kerja.",
+      "Melakukan simulasi transaksi, penyajian produk, dan pelayanan pelanggan untuk memastikan kesiapan operasional.",
+      "Berpartisipasi dalam pengelolaan stok dan kontrol kualitas produk sesuai standar brand.",
+      "Mengembangkan kemampuan komunikasi, kerja tim, dan manajemen waktu dalam lingkungan kerja F&B yang dinamis dan cepat."
+    ]
+  },
+  {
+    "designation": "Freelance Web Developer & Bug Bounty Researcher",
+    "organization": "Upwork",
+    "date": "Desember 2023 — Desember 2024",
+    "jobs": [
+      "Mengembangkan, mengelola, dan memelihara aplikasi web berbasis teknologi modern sesuai kebutuhan dan spesifikasi klien.",
+      "Menganalisis kebutuhan bisnis, menyusun spesifikasi fungsional, serta mengimplementasikan solusi perangkat lunak yang efisien dan scalable.",
+      "Melakukan pengujian keamanan aplikasi, mengidentifikasi kerentanan, dan meningkatkan ketahanan sistem melalui praktik bug bounty.",
+      "Melakukan riset dan eksplorasi teknologi terbaru untuk meningkatkan performa, keamanan, dan kompatibilitas lintas platform."
+    ]
+  }
+]

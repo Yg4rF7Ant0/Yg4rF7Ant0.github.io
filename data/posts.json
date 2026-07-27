@@ -1,0 +1,90 @@
+[
+  {
+    "id": "post1",
+    "title": "Elite Cybersecurity Training: Risk Management, Access Control, and Defense Strategies",
+    "url": "https://github.com/Y0xDft07/Latihan-Elit-Sec-Guardian.git",
+    "image": "./assets/images/post/cyber-training.png",
+    "category": "Cyber Security",
+    "date_published": "Juli 25, 2024"
+  },
+  {
+    "id": "post2",
+    "title": "Full Stack template for FastAPI, GO (chi), React 19 TypeScript, SCSS, Tanstack Query, Zustand, Nginx, Docker",
+    "url": "https://github.com/Y0xDft07/fullstack-template.git",
+    "image": "./assets/images/post/fulldev.png",
+    "category": ["Developer Tools","DevOps"],
+    "date_published": "3 weeks ago"
+  },
+  {
+    "id": "post3",
+    "title": "CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, Privacy, and Reporting.",
+    "url": "https://github.com/Y0xDft07/ciso-assistant-community.git",
+    "image": "./assets/images/post/cisco.png",
+    "category": ["Cyber Security","Governance","Compliance"],
+    "date_published": "3 weeks ago"
+  },
+  {
+    "id": "post4",
+    "title": "Centralized network visibility and continuous asset discovery. Monitor devices, detect change, and stay aware across distributed networks.",
+    "url": "https://github.com/Y0xDft07/NetAlertX.git",
+    "image": "./assets/images/post/netalertx.png",
+    "category": ["Networking","Cyber Security"],
+    "date_published": "3 weeks ago"
+  },
+  {
+    "id": "post5",
+    "title": "An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually.",
+    "url": "https://github.com/Y0xDft07/nginx-ignition.git",
+    "image": "./assets/images/post/ngix-ignition.png",
+    "category": ["DevOps","Developer Tools"],
+    "date_published": "3 weeks ago"
+  },
+  {
+    "id": "post6",
+    "title": "Burp Suite Professional web security testing toolkit used to test OWASP Top 10 vulnerabilities and advanced web attacks.",
+    "url": "https://github.com/Y0xDft07/Burpsuite-Professional.git",
+    "image": "./assets/images/post/burpsuite.png",
+    "category": ["Cyber Security","Application Security"],
+    "date_published": "Feb 3, 2024"
+  },
+  {
+    "id": "post7",
+    "title": "Cell tower logger and anomaly detector for Linux mobile devices. Monitors cellular connections and detects suspicious activity.",
+    "url": "https://github.com/Y0xDft07/Tower-Hunter.git",
+    "image": "./assets/images/post/towerhunter.png",
+    "category": ["Cyber Security","Privacy","Networking"],
+    "date_published": "Jan 24, 2026"
+  },
+  {
+    "id": "post8",
+    "title": "Hexora static analysis tool to detect malicious patterns in Python code and identify potential supply-chain attacks.",
+    "url": "https://github.com/Y0xDft07/hexora.git",
+    "image": "./assets/images/post/hexora.png",
+    "category": ["Cyber Security","Developer Tools"],
+    "date_published": "Dec 28, 2025"
+  },
+  {
+    "id": "post9",
+    "title": "Cursor AI MachineID reset tool for bypassing token limits and trial restrictions.",
+    "url": "https://github.com/Y0xDft07/cursor-free-vip.git",
+    "image": "./assets/images/post/cursor.png",
+    "category": ["Developer Tools","AI Tools"],
+    "date_published": "Sep 16, 2025"
+  },
+  {
+    "id": "post10",
+    "title": "Probly AI-powered spreadsheet platform with Python computation and intelligent document analysis.",
+    "url": "https://github.com/Y0xDft07/probly.git",
+    "image": "./assets/images/post/probly.png",
+    "category": ["AI Tools","Data Tools"],
+    "date_published": "May 14, 2025"
+  },
+  {
+    "id": "post11",
+    "title": "MegaParse file parser optimized for LLM ingestion supporting PDF, DOCX, and PPTX.",
+    "url": "https://github.com/Y0xDft07/MegaParse.git",
+    "image": "./assets/images/post/mp.png",
+    "category": ["AI Tools","Developer Tools"],
+    "date_published": "Feb 21, 2025"
+  }
+]
