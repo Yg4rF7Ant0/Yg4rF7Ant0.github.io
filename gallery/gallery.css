@@ -1,0 +1,188 @@
+:root {
+  /* --- hacker night colors --- */
+  --bg-dark: hsl(271, 80%, 12%);          /* ungu gelap */
+  --card-bg: hsla(271, 80%, 18%, 0.05);   /* glass/overlay card */
+  --border-glow: hsl(145, 90%, 55%);      /* hijau neon hacker */
+  --text-main: hsl(206, 80%, 85%);        /* biru neon terang */
+  /*--text-muted: hsla(206, 80%, 85%, 0.6);*/ /* biru neon soft */
+  /*--text-main: hsl(150, 100%, 50%); */
+  --text-muted: hsla(150, 100%, 50%, 0.7);
+  --bittersweet-shimmer: hsl(330, 90%, 50%);
+  --shadow-neon: 0 0 15px hsl(145,90%,55%), 0 0 30px hsl(206,80%,55%);
+  --overlay-bg: rgba(0,0,0,0.6);
+  --transition: 0.5s ease-in-out;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+}
+
+* { box-sizing: border-box; margin:0; padding:0; font-family:Poppins, sans-serif; }
+
+body {
+  background: var(--bg-dark);
+  color: var(--text-main);
+  padding: 40px 20px;
+}
+
+/* BACK BUTTON */
+#backBtn {
+  background: var(--card-bg);
+  border: 1px solid var(--text-muted);
+  color: var(--text-main);
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+#backBtn:hover { box-shadow: var(--shadow-neon); }
+
+/* HEADER */
+.page-header { text-align:center; margin-bottom:25px; }
+.page-header h1 {
+  font-size: 42px;
+  background: linear-gradient(to right, #3cf, #a5f, #0f9);
+  background-clip: text;          /* versi standar */
+  -webkit-background-clip: text;  /* versi WebKit */
+  -webkit-text-fill-color: transparent;
+}
+
+/* SEARCH */
+.search-box { text-align:center; margin-bottom:20px; }
+#searchInput {
+  width: 280px;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid var(--text-muted);
+  background: var(--card-bg);
+  color: var(--text-main);
+}
+
+/* FILTER */
+.filter-buttons { text-align:center; margin-bottom:25px; }
+.filter-btn {
+  margin: 5px;
+  padding: 8px 16px;
+  border-radius: 8px;
+  background: var(--card-bg);
+  border: 1px solid var(--text-muted);
+  color: var(--text-main);
+  cursor: pointer;
+}
+.filter-btn.active,
+.filter-btn:hover { box-shadow: var(--shadow-neon); }
+
+/* ORGANIZATION SECTION */
+.org-section { margin-bottom: 40px; }
+.org-title {
+  margin-bottom: 15px;
+  color: var(--accent);
+  font-size: 22px;
+}
+
+/* GRID */
+.org-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.gallery-item {
+  background: var(--card-bg);
+  border: 1px solid var(--text-muted);
+  border-radius: var(--radius);
+  padding: 16px;
+  cursor: pointer;
+  transition: var(--transition);
+}
+.gallery-item:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-neon);
+}
+
+/* TEXT */
+.gallery-title { font-weight: 600; margin-bottom: 6px; }
+.gallery-desc { font-size: 14px; color: var(--text-muted); }
+
+/* MODAL */
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.95);
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.modal.show { display: flex; }
+
+.modal-pdf {
+  width: 90%;
+  height: 75%;
+  border: none;
+  border-radius: var(--radius);
+}
+
+.modal-img {
+  max-width: 90%;
+  max-height: 75%;
+  border-radius: var(--radius);
+}
+
+.modal-actions {
+  margin-top: 12px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.modal-btn {
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.2s ease;
+}
+
+.modal-btn.primary {
+  background: #4f46e5;
+  color: #fff;
+}
+.modal-btn.primary:hover { background: #4338ca; }
+
+.modal-btn.secondary {
+  background: #10b981;
+  color: #fff;
+}
+.modal-btn.secondary:hover { background: #059669; }
+
+.level-badge {
+  display: inline-block;
+  margin: 6px 0;
+  padding: 3px 8px;
+  font-size: 11px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.level-badge.basic { background: #e0f2fe; color: #0369a1; }
+.level-badge.intermediate { background: #fef3c7; color: #92400e; }
+.level-badge.pro { background: #fee2e2; color: #991b1b; }
+
+.level-tag {
+  font-size: 11px;
+  padding: 3px 6px;
+  border-radius: 6px;
+  margin-left: 8px;
+}
+
+.level-tag.basic { background: #e0f2fe; }
+.level-tag.intermediate { background: #fef3c7; }
+.level-tag.pro { background: #fee2e2; }
+
+.close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 40px;
+  cursor: pointer;
+}

@@ -1,0 +1,244 @@
+[
+  {
+    "title": "ICS/SCADA Cybersecurity",
+    "desc": "Keamanan sistem industri dan SCADA termasuk perlindungan infrastruktur kritis, identifikasi kerentanan ICS, serta strategi pertahanan terhadap serangan pada sistem kontrol industri.",
+    "pdf": "images/RedTeamLeader/ics_scada_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/a75c41eb-a725-4834-b188-da837cbbff88",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "level": "Pro",
+    "credentialUrl": "https://example.com/credential1"
+  },
+  {
+    "title": "ATM Penetration Testing & Security Assessment",
+    "desc": "Analisis keamanan mesin ATM meliputi arsitektur sistem, teknik eksploitasi, pengujian penetrasi perangkat finansial, serta penerapan kontrol keamanan pada sistem ATM.",
+    "pdf": "images/RedTeamLeader/atm_penetration_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/eced6306-b938-475c-83a5-6718815da59e",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "level": "Pro",
+    "credentialUrl": "https://example.com/credential2"
+  },
+  {
+    "title": "CSAM Combat & Investigation Introduction",
+    "desc": "Pengenalan teknik investigasi digital untuk mendeteksi, menganalisis, dan mencegah konten eksploitasi anak menggunakan metode forensik digital dan analisis data.",
+    "pdf": "images/RedTeamLeader/csam_combat_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/2a412d31-a2e4-47ce-9709-14f711e1d53b",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "level": "Intermediate",
+    "credentialUrl": "https://example.com/credential3"
+  },
+  {
+    "title": "Cyber Security Architecture v1",
+    "desc": "Perancangan arsitektur keamanan sistem enterprise termasuk manajemen risiko, model keamanan jaringan, serta penerapan kontrol keamanan pada infrastruktur TI.",
+    "pdf": "images/RedTeamLeader/cyber_security_ArchitectureV1_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/57769428-efac-4b1d-b34f-99e4195fe1da",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "level": "Pro",
+    "credentialUrl": "https://example.com/credential4"
+  },
+  {
+    "title": "Healthcare Hacking Introduction",
+    "desc": "Pengenalan keamanan siber di sektor kesehatan termasuk analisis kerentanan sistem medis, perlindungan data pasien, serta strategi keamanan untuk infrastruktur kesehatan.",
+    "pdf": "images/RedTeamLeader/healthcare_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/08500f44-7c39-4ff0-8753-8f2ff474db8d",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "level": "Intermediate",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Offensive Agent AI Security",
+    "desc": "Eksplorasi penggunaan AI agent dalam keamanan siber termasuk teknik serangan otomatis, analisis kerentanan berbasis AI, serta strategi pertahanan menggunakan teknologi AI.",
+    "pdf": "images/RedTeamLeader/offensive_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/4cc576dd-934b-4289-a100-8a233fe07ef2",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "level": "Pro",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Security Code Review and White Box Testing",
+    "desc": "Analisis keamanan aplikasi melalui Security Code Review dan White Box Testing untuk menemukan kerentanan implementasi, kesalahan logika, serta kelemahan pada autentikasi, otorisasi, manajemen sesi, dan desain keamanan aplikasi.",
+    "pdf": "images/RedTeamLeader/security_code_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/4d70f388-ca16-4bfe-a97e-3a2dd9f01d06",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "level": "Pro",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Intermediate Malware Analysis",
+    "desc": "Analisis malware tingkat menengah termasuk triase biner PE/ELF, unpacking payload, reverse engineering kode terobfusikasi, investigasi fileless malware, analisis process injection, decoding protokol C2, serta pengembangan deteksi menggunakan YARA, Sigma, dan threat intelligence STIX/MISP.",
+    "pdf": "images/RedTeamLeader/intermediate_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/c70481ef-a140-44f3-bd5b-6dd976476392",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "level": "Intermediate",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Intelligence & Counterintelligence Introduction",
+    "desc": "Pengantar konsep intelijen dan kontra-intelijen dalam keamanan siber, mencakup doktrin operasi siber (CNE, CNA, CND / OCO, DCO), COMSEC dan OPSEC, model insider threat, serta pengaruh dan disinformasi dalam operasi informasi. Kursus ini menekankan tata kelola, batasan hukum dan etika, serta analisis studi kasus dari praktik lembaga intelijen seperti CIA, FBI, NSA, dan organisasi keamanan lainnya.",
+    "pdf": "images/RedTeamLeader/digital_forensi_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/a56478df-23c7-44d5-9443-e989735f0182",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "level": "Intermediate",
+    "credentialUrl": ""
+  },
+  
+  {
+    "title": "Elite Bug Bounty: Beginner to Expert (Practice Test)",
+    "desc": "Latihan identifikasi dan eksploitasi kerentanan aplikasi web seperti XSS, SQL Injection, dan CSRF menggunakan tools seperti Burp Suite dan OWASP ZAP dalam skenario bug bounty.",
+    "pdf": "images/Udemy/BugBountyBegginerToExpert.pdf",
+    "courseUrl": "https://www.udemy.com/share/10eNod3@N-kF0tckhTCBzOxC7r6k5NXD1R_RLqjdRQSn3Ic8ahk8P2CZwuq0PhOR5hEjhFH_GQ==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "level": "Pro",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Elite Cyber Security Guardians (Practice Test) Pro",
+    "desc": "Practice test cybersecurity yang mencakup analisis ancaman, keamanan jaringan, manajemen risiko, dan strategi pertahanan terhadap berbagai serangan siber.",
+    "pdf": "images/Udemy/ElitCyberScurty.pdf",
+    "courseUrl": "https://www.udemy.com/share/10eNnH3@eMb_5CVbk2YD4UpZ9a9kPSwGJiaTV-CL-Aj7cZFv4n3XlGFlEHIl_DAvGnXfJldxPw==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "level": "Pro",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Internet of Things (IoT) Online Course",
+    "desc": "Pengenalan konsep Internet of Things termasuk arsitektur perangkat, komunikasi sensor, protokol jaringan IoT, dan penerapan sistem perangkat terhubung.",
+    "pdf": "images/Udemy/InternetOfThink(IOT).pdf",
+    "courseUrl": "https://www.udemy.com/share/10axgi3@K2XshuMf1AjNJfSleKQtgglHnG-KYVgReiFefIwszLF5FcxaihepwLw3wFi6n2ZeWw==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "level": "Basic",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Master Ubuntu Linux: From Beginner to Advanced",
+    "desc": "Administrasi sistem Ubuntu Linux termasuk manajemen file system, penggunaan terminal, pengelolaan proses, instalasi paket, dan konfigurasi sistem operasi Linux.",
+    "pdf": "images/Udemy/Ubuntu Linux Begginer To Advance.pdf",
+    "courseUrl": "https://www.udemy.com/share/10egZv3@NWxsSDUHVeIwSsqgUclXnyhlkwNjV3ASr9xgcB4pPmgxilBuEQSuUtZLB48yhYFkhQ==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "level": "Intermediate",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Real Nmap: Elite Network Scanning & Recon",
+    "desc": "Teknik network reconnaissance menggunakan Nmap termasuk port scanning, service enumeration, OS detection, dan penggunaan Nmap Scripting Engine untuk penetration testing.",
+    "pdf": "images/Udemy/RealNMAP Networki Scanning_Recon_Exploit-Discovery_CNMP.pdf",
+    "courseUrl": "https://www.udemy.com/share/109hmA3@_e_VmOUDfjde4q4PoIvfl7_pULfTKY0er8acESCrykY4ql2kYYVUiNjoqyxD5gIe-Q==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "level": "Intermediate",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Wireshark Ninja: Mastering Packet Analysis",
+    "desc": "Analisis paket jaringan menggunakan Wireshark untuk packet capture, traffic filtering, analisis protokol TCP/IP, serta investigasi keamanan dan troubleshooting jaringan.",
+    "pdf": "images/Udemy/WireShark&PacketAnalys.pdf",
+    "courseUrl": "https://www.udemy.com/share/10eNoj3@lo6e6kszbRC53xEMxCwbfPAg-84Q53gOlFiCJJsOuxJFQNyzmv6muetkK2H4SChXRQ==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "level": "Pro",
+    "credentialUrl": ""
+  },
+
+  {
+    "title": "CompTIA Security+ Certification Training (SY0-701)",
+    "desc": "Pelatihan dasar keamanan siber yang mencakup prinsip keamanan jaringan, identifikasi ancaman dan kerentanan, manajemen risiko, kontrol akses dan IAM, kriptografi, arsitektur keamanan, serta respons insiden sesuai domain CompTIA Security+ SY0-701.",
+    "pdf": "images/Udemy/certificate-CC-2026-000068.pdf",
+    "courseUrl": "https://cyvitrix.com/courses/securityplus-training/",
+    "category": ["Course"],
+    "organization": "Cyvitrix Learning",
+    "level": "Basic",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Fundamental Algoritma",
+    "desc": "Dasar logika pemrograman, algoritma, struktur kontrol, dan metode pemecahan masalah secara sistematis dalam pengembangan perangkat lunak.",
+    "pdf": "images/CodingStudio/Certificate_Fundamental-Algoritma_Yoga-arfiyanto.pdf",
+    "courseUrl": "https://member.codingstudio.id/kursus/fundamental-algoritma/lesson/LESSON-16906-course-selesai",
+    "category": ["Course"],
+    "organization": "Coding Studio",
+    "level": "Basic",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Fundamental Command Linux",
+    "desc": "Pengenalan perintah dasar Linux termasuk navigasi file system, manajemen file, serta penggunaan command line pada sistem operasi Linux.",
+    "pdf": "images/CodingStudio/Certificate_Fundamental-Command-Linux_Yoga-arfiyanto.pdf",
+    "courseUrl": "https://member.codingstudio.id/kursus/fundamental-command-linux/lesson/QUIZ-17988-kuis-chapter-5",
+    "category": ["Course"],
+    "organization": "Coding Studio",
+    "level": "Basic",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Fundamental Cybersecurity",
+    "desc": "Konsep dasar keamanan informasi termasuk ancaman siber umum, prinsip keamanan sistem, dan praktik perlindungan data serta jaringan.",
+    "pdf": "images/CodingStudio/Certificate_Fundamental-Cyber-Security_Yoga-arfiyanto.pdf",
+    "courseUrl": "https://member.codingstudio.id/kursus/fundamental-cyber-security/lesson/term-of-agreement-COURSE-18498-1",
+    "category": ["Course"],
+    "organization": "Coding Studio",
+    "level": "Basic",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Fundamental Jaringan Komputer",
+    "desc": "Dasar komunikasi jaringan termasuk model OSI dan TCP/IP, alamat IP, subnetting dasar, serta protokol jaringan utama.",
+    "pdf": "images/CodingStudio/Certificate_Fundamental-Jaringan-Komputer_Yoga-arfiyanto.pdf",
+    "courseUrl": "https://member.codingstudio.id/kursus/fundamental-jaringan-komputer/lesson/LESSON-15562-course-selesai",
+    "category": ["Course"],
+    "organization": "Coding Studio",
+    "level": "Basic",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Fundamental Penetration Testing",
+    "desc": "Pengenalan metodologi penetration testing termasuk tahap reconnaissance, scanning, identifikasi kerentanan, dan dasar eksploitasi keamanan sistem.",
+    "pdf": "images/CodingStudio/Certificate_Fundamental-Penetration-Testing_Yoga-arfiyanto.pdf",
+    "courseUrl": "https://member.codingstudio.id/kursus/fundamental-penetration-testing/lesson/reporting",
+    "category": ["Course"],
+    "organization": "Coding Studio",
+    "level": "Basic",
+    "credentialUrl": ""
+  },
+  {
+    "title": "PCAP – Programming Essentials in Python",
+    "desc": "Pembelajaran dasar pemrograman Python termasuk sintaks bahasa, tipe data, kontrol alur, fungsi, dan struktur data untuk membangun program Python sederhana.",
+    "pdf": "images/UBSI/PCAP.pdf",
+    "courseUrl": "https://www.netacad.com/launch?id=65f191db-2efe-4d75-acae-2c7fc7a4da7a&tab=curriculum&view=2ecd9e81-daa1-54b5-98f0-c3b8afc8478a",
+    "category": ["Workshop","Course"],
+    "organization": "Universitas BSI – OpenEDG & Cisco",
+    "level": "Basic",
+    "credentialUrl": "https://example.com/credential6"
+  },
+  {
+    "title": "Social Media Marketing 101",
+    "desc": "Pengenalan strategi pemasaran digital menggunakan platform media sosial untuk meningkatkan brand awareness dan engagement.",
+    "pdf": "images/social_media_marketing.pdf",
+    "courseUrl": "",
+    "category": ["Workshop","Official"],
+    "organization": "Mini Club Developer",
+    "level": "Basic",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Seminar Wajib Entrepreneur",
+    "desc": "Seminar pengembangan mindset kewirausahaan, inovasi bisnis, dan strategi membangun usaha mandiri.",
+    "pdf": "images/UBSI/BEC.pdf",
+    "courseUrl": "",
+    "category": ["Workshop","Official"],
+    "organization": "Universitas BSI",
+    "level": "Basic",
+    "credentialUrl": ""
+  }
+]
